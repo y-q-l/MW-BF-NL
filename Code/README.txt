@@ -19,8 +19,11 @@ CategoricalScatterplot.m:
 For plotting individual values.(An improved box plot.) version 1.1.0.0.
 AbstractGeek (2021). AbstractGeek/CategoricalScatterplot (https://github.com/AbstractGeek/CategoricalScatterplot), GitHub. Retrieved January 21, 2021.
 
+Complexity_with_Power.m:
+Correlation analysis for the difference of nonlinear metrics and the difference of power data. And plot the results.
+
 Corr_and_Plot.m:
-Correlation analysis for the nonlinear metrics of significant cluster and drowsiness. And plot the results.
+Correlation analysis for the nonlinear metrics and drowsiness. And plot the results.
 
 Grand_avg.m:
 Calculate grand average values.
